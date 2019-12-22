@@ -16,4 +16,4 @@
 
 # ✔ bash requirement.sh
 
-# ✔ python2 ip-attack.py
+# ✔ python2 ip-gathering.py
