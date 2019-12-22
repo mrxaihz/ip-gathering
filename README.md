@@ -8,4 +8,12 @@
 
 # ✔ cd $HOME
 
-# ✔ git clone
+# ✔ git clone https://github.com/mrxaihz/ip-gathering.git
+ 
+# ✔cd ip-gathering
+
+# ✔ chmod +x requirement.sh ip-gathering.py
+
+# ✔ bash requirement.sh
+
+# ✔ python2 ip-gathering.py
